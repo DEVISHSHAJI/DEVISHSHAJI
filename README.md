@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DEVISHSHAJI
+- 👋 Hi, I’m @DEVIS HSHAJI
 -      I’m a Data Scientist
 
 
